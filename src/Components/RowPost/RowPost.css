@@ -17,5 +17,10 @@
 }
 
 .posters::-webkit-scrollbar{
-    display: none;
+   display: none;
+}
+.small_poster{
+    max-height: 150px;
+    margin-right: 10px;
+    
 }
